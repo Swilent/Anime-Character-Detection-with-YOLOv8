@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### ONNX 推理（推荐，支持所有平台）
+### ONNX 测试（推荐，支持所有平台）
 </div>
 
 ```bash
@@ -42,7 +42,7 @@ python test_onnx.py
 
 <div align="center">
 
-### YOLO 推理（推荐CUDA用户选择）
+### YOLO 测试（推荐Nvidia用户选择）
 
 </div>
 
