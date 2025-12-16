@@ -242,9 +242,9 @@ Anime Character Detection with YOLOv8/
 ```bibtex
 @misc{anime_character_detection_yolov8,
   title={Anime Character Detection with YOLOv8},
-  author={Anime Character Detection Team},
+  author={Swilent},
   year={2025},
-  url={https://github.com/yourusername/anime-character-detection}
+  url={https://github.com/Swilent/anime-character-detection}
 }
 ```
 
