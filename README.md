@@ -213,7 +213,6 @@ Anime Character Detection with YOLOv8/
 
 ## 🛠️ 经验与踩坑
 
-<details>
 <summary>🔧 技术细节</summary>
 
 - **AMD ROCm on Windows**：PyTorch 官方预编译包可用，但需严格按文档安装驱动和 SDK
@@ -222,7 +221,6 @@ Anime Character Detection with YOLOv8/
 - **数据质量 > 模型复杂度**：高质量、场景均衡的 678 张图像，足以训练出 mAP>0.97 的模型
 - **训练稳定性**：cosine 学习率调度 + 自动优化器组合效果出色，无需手动调整
 
-</details>
 
 ---
 
