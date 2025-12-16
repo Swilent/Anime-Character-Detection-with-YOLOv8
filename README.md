@@ -192,10 +192,10 @@ Anime Character Detection with YOLOv8/
 
 ---
 
-## 🚀 模型部署（ONNX 导出与推理）
+## 🚀 模型部署（ONNX 导出与测试）
 
 - ✅ 成功导出为 ONNX 格式（[`models/best.onnx`](./models/best.onnx)）
-- ✅ 使用 **ONNX Runtime** 完成推理验证
+- ✅ 使用 **ONNX Runtime** 完成测试验证
 - ✅ 推理输出形状：`(1, 5, 8400)`，符合单类 YOLOv8 预期
 - ✅ 支持集成到**屏幕实时检测**、**视频流分析**等应用场景
 
