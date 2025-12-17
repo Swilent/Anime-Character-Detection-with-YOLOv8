@@ -141,8 +141,8 @@ Anime Character Detection with YOLOv8/
 | **Batch size** | 24 | 适配 20GB 显存 |
 | **Epochs** | 150 | 早停 patience=30 |
 | **Optimizer** | Auto | SGD + cosine LR |
-| **AMP** | ✅ | 混合精度加速 |
-| **Workers** | 0 | Windows 稳定性 |
+| **AMP** | True | 混合精度加速 |
+| **Workers** | 0 | Windows平台稳定性 |
 
 ### 性能观察
 
