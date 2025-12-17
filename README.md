@@ -42,7 +42,7 @@ python test_onnx.py
 
 <div align="center">
 
-### YOLO 测试（推荐Nvidia用户选择）
+### YOLO 测试（推荐Nvidia显卡用户选择）
 
 </div>
 
