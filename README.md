@@ -213,8 +213,6 @@ Anime Character Detection with YOLOv8/
 
 ## 🛠️ 经验与踩坑
 
-<summary>🔧 技术细节</summary>
-
 - **AMD ROCm on Windows**：PyTorch 官方预编译包可用，但需严格按文档安装驱动和 SDK
 - **Windows DataLoader**：设置 `workers=0` 避免子进程卡死（Windows + PyTorch 常见问题）
 - **Batch Size 优化**：显存仅占用 62%，未来可尝试 `batch=32` 或启用 `multi_scale` 提升吞吐
@@ -242,7 +240,7 @@ Anime Character Detection with YOLOv8/
   title={Anime Character Detection with YOLOv8},
   author={Swilent},
   year={2025},
-  url={https://github.com/Swilent/anime-character-detection}
+  url={https://github.com/Swilent/Anime-Character-Detection-with-YOLOv8}
 }
 ```
 
